@@ -29,7 +29,7 @@
 
 
 
-Hi, I'm [Aditya Yaduvanshi](https://www.instagram.com/fixslayrxx/) and I am web developer and web desginer.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Pranjul Yaduvanshi](https://www.instagram.com/iampranjul_/) and I am web developer and web desginer.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -53,9 +53,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/fixslyr" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/theadityayaduvanshi/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:aditya97y@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://twitter.com/iampranjul_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/pranjulyaduvanshi/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:iampranjul05@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
    
   </p>
 

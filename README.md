@@ -8,17 +8,17 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/fixslyr">
-  <img align="left" alt="Aditya Yaduvanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/iampranjul_">
+  <img align="left" alt="Pranjul Yaduvanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/theaditya-yaduvanshi-/">
-  <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/pranjulyaduvanshi/">
+  <img align="left" alt="Pranjul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/9rajyhn03ll8w0ohk7usytvp2">
-  <img align="left" alt="Aditya's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://open.spotify.com/user/21l5a5e5v4jwuehehrdh4gvii">
+  <img align="left" alt="Pranjul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=adityayaduvanshi.adityayaduvanshi)
+![](https://visitor-badge.glitch.me/badge?page_id=iampranjul.iampranjul)
 
 <br />
 

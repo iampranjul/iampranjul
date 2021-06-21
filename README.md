@@ -1,6 +1,6 @@
 
 
-<img src="hey,i am Aditya (2).png" alt="Hero image">
+<img src="hello.gif" alt="Hero image">
 
 
 

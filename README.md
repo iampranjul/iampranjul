@@ -45,7 +45,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   - KSHMR,Travis Scott,TheWeeknd are my favourite artists.
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=adityayaduvanshi&show_icons=true&theme=nord)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=iampranjul&show_icons=true&theme=nord)
   <br><br>
 </details>
 
